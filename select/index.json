@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ビーチブレイバー",
+  "base_artist": "放課後クライマックスガールズ",
+  "createdAt": "2026-02-14T12:45:07.074056Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビーチブレイバー",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": true,
+      "path": "select/01_ビーチブレイバー_放課後クライマックスガールズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビーチブレイバー",
+      "artist": "放課後クライマックスガールズ (河野ひより, 白石晴香, 永井真里子, 丸岡和佳奈, 涼本あきほ)",
+      "has_synced": true,
+      "path": "select/02_ビーチブレイバー_放課後クライマックスガールズ_(河野ひより,_白石晴香,_永井真里子,_丸岡和佳奈,_涼本あきほ).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ビーチブレイバー - BEACH BRAVER",
+      "artist": "HO-KA-GO CLIMAX GIRLS",
+      "has_synced": true,
+      "path": "select/03_ビーチブレイバー_-_BEACH_BRAVER_HO-KA-GO_CLIMAX_GIRLS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビーチブレイバー",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": false,
+      "path": "select/pl_01_ビーチブレイバー_放課後クライマックスガールズ.txt"
+    }
+  ]
+}
